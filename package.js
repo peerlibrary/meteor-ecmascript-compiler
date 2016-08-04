@@ -1,6 +1,6 @@
 Package.describe({
   name: 'peerlibrary:ecmascript-compiler',
-  version: '0.5.7',
+  version: '0.5.7_2',
   summary: 'Compiler plugin that supports ES2015+ in all .js files',
   documentation: 'README.md'
 });
